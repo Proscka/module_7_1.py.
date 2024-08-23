@@ -1,0 +1,27 @@
+Potato, 50.5, Vegetables
+Spaghetti, 3.4, Groceries
+Potato, 5.5, Vegetables
+<__main__.Product object at 0x000002607AE5E5A0>
+<__main__.Product object at 0x000002607AE5E660>
+<__main__.Product object at 0x000002607AE5E720>
+<__main__.Product object at 0x00000187D937E5A0>
+<__main__.Product object at 0x00000187D937E660>
+<__main__.Product object at 0x00000187D937E720>
+<__main__.Product object at 0x000001AC2FB0E6C0>
+<__main__.Product object at 0x000001AC2FB0E780>
+<__main__.Product object at 0x000001AC2FB0E840>
+<__main__.Product object at 0x000001526BB7E5A0>
+<__main__.Product object at 0x000001526BB7E660>
+<__main__.Product object at 0x000001526BB7E720>
+<__main__.Product object at 0x0000024EC339E630>
+<__main__.Product object at 0x0000024EC339E6F0>
+<__main__.Product object at 0x0000024EC339E7B0>
+<__main__.Product object at 0x0000023A17DCE630>
+<__main__.Product object at 0x0000023A17DCE6F0>
+<__main__.Product object at 0x0000023A17DCE7B0>
+<__main__.Product object at 0x000001CD9D5EE630>
+<__main__.Product object at 0x000001CD9D5EE6F0>
+<__main__.Product object at 0x000001CD9D5EE7B0>
+Potato,50.5,Vegetables
+Spaghetti,3.4,Groceries
+Potato,5.5,Vegetables
